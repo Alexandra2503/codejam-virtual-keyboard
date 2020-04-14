@@ -1,0 +1,40 @@
+.container{
+    width: 700px; 
+    margin: 0 auto;
+}
+.title{
+    width: 700px; 
+    text-align: center; 
+    color: #F3B7B6; 
+    margin: 5px auto; 
+    font-size: 24px;
+}
+.textarea{
+    width: 690px; 
+    height: 300px; 
+    margin-bottom: 7px;
+}
+.keyboard{
+    background-color: #888888;  
+    padding-right:5px; 
+    padding-top:5px; 
+    width: 691px;
+}
+.text{
+    width: 600px; 
+    text-align: center; 
+    color: #CD72D1; 
+    margin: 5px auto; 
+    font-size: 20px;
+}
+.button{
+    height: 40px; 
+    background: #444444; 
+    color: white; 
+    display: flex; 
+    justify-content: center; 
+    align-items: center;  
+    border-radius: 10%; 
+    margin-left: 5px; 
+    margin-bottom: 5px;
+}
